@@ -1,0 +1,227 @@
+body{
+    background-color: gray;
+    background-image: url("https://i0.wp.com/cinemaeafins.com.br/wp-content/uploads/2023/02/netflix-fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background: radial-gradient(circle at 50% 50%, rgba(0,0,0,50%) 0%, rgba(0,0,0,90%) 90vw),
+    url(https://i0.wp.com/cinemaeafins.com.br/wp-content/uploads/2023/02/netflix-fundo.jpg), black;
+}
+
+
+header{
+    margin: auto;
+}
+
+
+section{
+    background-color: rgba(0, 0, 0, 0.651);
+    border-radius: 6px;
+    padding: 210px;
+    width: 30px;
+    margin: 0 auto;
+    margin-top: 60px;
+    height: 240px;
+    
+}
+
+h1{
+    color: white;
+    margin-top: -145px;
+    margin-left: -145px;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif
+    
+    
+}
+
+.input{
+    background-color: #333333;
+    padding: 16px 70px;
+    margin-left: -145px;
+    border-radius: 6px;
+    color: rgb(156, 156, 156);
+    border: solid 1px gray
+
+    
+}
+
+.input2{
+    background-color: #333333;
+    padding: 16px 70px;
+    margin-left: -145px;
+    border-radius: 6px;
+    color: rgb(156, 156, 156);
+    border: solid 1px gray
+
+    
+}
+
+
+
+.entrar{
+    background-color: red;
+    padding: 16px 138px;
+    margin-left: -145px;
+    border-radius: 6px;
+    color: white;
+    font-size: smaller;
+    margin-top: 40px;
+    border: solid 1px red;
+    font-weight: 760;
+    cursor: pointer;
+}
+
+
+
+
+.checkbox{ 
+    margin-left: -145px;
+    margin-top: 12px;
+    border: 0px;
+    width: 20px;
+    height: 30px;
+    vertical-align: middle;
+    opacity: 0.5;
+}
+
+.lembrese{
+    color: rgb(156, 156, 156);
+    padding-right: 70px;
+    margin-top: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+}
+
+.ajuda{
+    text-wrap: nowrap;
+    font-size: 85%;
+    margin-top: 19px;
+    font-family: Arial;
+    padding-left: 10px;
+}
+
+.netflixlogo{
+    position: absolute;
+    top: 1%;
+    margin-left: -870px;
+    margin-top: 20px;
+}
+
+a{
+    color: rgb(156, 156, 156);
+}
+.checkbox{
+    padding: 50px;
+}
+
+.novo{
+    color: rgba(156, 156, 156, 0.644);
+    text-wrap: nowrap;
+    font-family: Arial;
+    font-size: small;
+    margin-left: -143px;
+    margin-top: 60px;
+    font-size: 90%;
+}
+
+.assine{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+.recaptcha{
+    text-wrap: nowrap;
+    color: rgba(156, 156, 156, 0.815);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    margin-left: -143px;
+    margin-top: 18px;
+
+}
+
+.saiba{
+    color:blue
+}
+
+.section2{
+    width: auto;
+    height: 20px;
+    margin-top: 5%;
+    padding: 130px;
+    margin-left: -10px;
+    min-width: 10px;
+    min-height: 90%;
+    
+}
+
+.duvidas{
+    margin-left: 300px;
+    margin-top: -85px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95%;
+    color: rgba(156, 156, 156, 0.637);
+
+}
+
+
+.perguntas{
+    
+    margin-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin-top: 33px;
+    color: rgba(156, 156, 156, 0.637);
+}
+
+.preferencias{
+    margin-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin-top: 20px;
+    color: rgba(156, 156, 156, 0.637);
+
+}
+
+.central{
+    margin-left: 560px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin-top: -61px;
+    color: rgba(156, 156, 156, 0.637);
+}
+
+.informacoes{
+    margin-left: 560px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin-top: 20px;
+    color: rgba(156, 156, 156, 0.637);
+}
+
+.termos{
+    margin-left: 810px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin-top: -72px;
+    color: rgba(156, 156, 156, 0.637);
+}
+
+.privacidade{
+    margin-left: 1055px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
+    margin-top: -47px;
+    color: rgba(156, 156, 156, 0.637);
+}
+
+.idioma{
+    margin-top: 60px;
+    margin-left: 301px;
+    background-color: black;
+    color: white;
+    padding: 13px;
+    border: solid 1px gray;
+    border-radius: 2px;
+    
+}
